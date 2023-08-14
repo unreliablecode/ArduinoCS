@@ -46,10 +46,11 @@ class Program
         }
     }
 }
-
+```
 Arduino Code
 The provided Arduino code in the ArduinoSide folder handles communication from the C# application.
 
+```cpp
 #include <ArduinoJson.h>
 
 struct ArduinoMessage {
@@ -76,7 +77,7 @@ void loop() {
         // Continue processing the received data here
     }
 }
-
+```
 Contributing
 Contributions to ArduinoCS are welcome! If you encounter any issues or have suggestions for improvements, feel free to create a pull request or submit an issue on the GitHub repository.
 
