@@ -1,0 +1,12 @@
+C:\Users\GEMINK\source\repos\ArduinoCS\ArduinoCS\bin\Debug\ArduinoCS.exe.config
+C:\Users\GEMINK\source\repos\ArduinoCS\ArduinoCS\bin\Debug\ArduinoCS.exe
+C:\Users\GEMINK\source\repos\ArduinoCS\ArduinoCS\bin\Debug\ArduinoCS.pdb
+C:\Users\GEMINK\source\repos\ArduinoCS\ArduinoCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GEMINK\source\repos\ArduinoCS\ArduinoCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GEMINK\source\repos\ArduinoCS\ArduinoCS\obj\Debug\ArduinoCS.csproj.AssemblyReference.cache
+C:\Users\GEMINK\source\repos\ArduinoCS\ArduinoCS\obj\Debug\ArduinoCS.Form1.resources
+C:\Users\GEMINK\source\repos\ArduinoCS\ArduinoCS\obj\Debug\ArduinoCS.csproj.GenerateResource.cache
+C:\Users\GEMINK\source\repos\ArduinoCS\ArduinoCS\obj\Debug\ArduinoCS.csproj.CoreCompileInputs.cache
+C:\Users\GEMINK\source\repos\ArduinoCS\ArduinoCS\obj\Debug\ArduinoCS.csproj.CopyComplete
+C:\Users\GEMINK\source\repos\ArduinoCS\ArduinoCS\obj\Debug\ArduinoCS.exe
+C:\Users\GEMINK\source\repos\ArduinoCS\ArduinoCS\obj\Debug\ArduinoCS.pdb
