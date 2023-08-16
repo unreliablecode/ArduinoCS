@@ -13,7 +13,8 @@ void setup() {
 }
 
 void loop() {
-    if (Serial.available() > 0) {
+    if (Serial.available() > 0) 
+    {
         String jsonStr = Serial.readStringUntil('\n');
         DynamicJsonDocument jsonDoc(256);
         deserializeJson(jsonDoc, jsonStr);
@@ -30,5 +31,6 @@ void loop() {
         {
             AnalogWrite(gpio, value);
         }
+        Serial.read()  
     }
 }
