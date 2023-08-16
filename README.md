@@ -1,6 +1,6 @@
 # ArduinoCS - Arduino Communication
 
-ArduinoCS is a lightweight example code that facilitates seamless communication between an Arduino board and a C# application via a serial connection. This library empowers you to control digital and analog pins on your Arduino board using C# code.
+ArduinoCS is a lightweight example code that facilitates seamless communication between an Arduino or ESP board and a C# application via a serial connection. This library empowers you to control digital and analog pins on your Arduino board using C# code.
 
 ## Features
 
